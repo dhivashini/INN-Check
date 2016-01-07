@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">INN-Check</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv">Inn-Check!!</string>
+    <string name="tv1">UserName</string>
+    <string name="tv2">Password</string>
+    <string name="b1">OK</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tt">Le-Meridian!</string>
+    <string name="bb1">highlights!</string>
+    <string name="bb2">veiw gallery</string>
+    <string name="bb3">check cost</string>
+    <string name="bb4">Timings</string>
+    <string name="bb5">Cuisines</string>
+    <string name="title_activity_activity1">COST OF STAY</string>
+    <string name="cost">Facilities!</string>
+    <string name="cost1">*Non-veg Served</string>
+    <string name="cost2">*wi-fi!</string>
+    <string name="cost3">*Swimming pool!</string>
+    <string name="cost4">*Conference halls and party halls!</string>
+    <string name="title_activity_activity2">PREVIEW OF ROOMS</string>
+    <string name="title_activity_activity3">Activity3</string>
+    <string name="dd1">chola suite</string>
+    <string name="dd2">presidential suite</string>
+    <string name="dd3">The towers</string>
+    <string name="dd4">Eva room</string>
+    <string name="title_activity_activity4">Timings</string>
+    <string name="a51">Booking time:</string>
+    <string name="a52">On weekdays:8AM to 10PM</string>
+    <string name="a53">On weekends:24hrs</string>
+    <string name="title_activity_activity5">CUISINES</string>
+    <string name="a41">*North Indian</string>
+    <string name="a42">*Continental</string>
+    <string name="jj">CHANGE</string>
+
+</resources>
